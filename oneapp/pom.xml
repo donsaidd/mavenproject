@@ -13,8 +13,6 @@
             <artifactId>App-Core-lib</artifactId>
             <version>1.0</version>
          </dependency>
-      </dependencies>  
-      <dependencies>
          <dependency>
             <groupId>com.companyname.groupname</groupId>
             <artifactId>App-Data-lib</artifactId>
