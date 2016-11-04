@@ -4,7 +4,7 @@
   <groupId>devops</groupId>
   <artifactId>new-app</artifactId>
   <packaging>jar</packaging>
-  <version>1.0</version>
+  <version>1.1</version>
   <name>new-app</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -15,6 +15,4 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-
-
 </project>
